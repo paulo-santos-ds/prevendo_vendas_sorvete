@@ -6,6 +6,7 @@
 
 ## 📊 Sobre o Projeto
 
+
 Este projeto utiliza técnicas de Machine Learning para prever vendas de sorvete com base em fatores como temperatura, umidade, dia da semana, sazonalidade e eventos especiais. O modelo ajuda proprietários de sorveterias a otimizar seu estoque, escalar a produção e maximizar receitas.
 
 ## 🎯 Objetivos
